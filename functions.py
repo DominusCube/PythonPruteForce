@@ -122,7 +122,7 @@ def getGoAgain():
       print("")
       return False
     else:
-      goAgain == "invalid"
+      goAgain = "invalid"
       print("Invalid input, try again")
       print("")
 
